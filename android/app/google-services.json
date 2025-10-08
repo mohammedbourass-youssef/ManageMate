@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90709939017",
+    "project_id": "managemate-7939b",
+    "storage_bucket": "managemate-7939b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90709939017:android:7758491962e265b9034098",
+        "android_client_info": {
+          "package_name": "com.example.teamtasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRYJlDRus79XS1HdyPdeO-03SzZ0mxBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
