@@ -1,8 +1,3 @@
-Sure — here’s the full **README.md** version (fully formatted in Markdown, ready to copy into your repo):
-
----
-
-````markdown
 # 📱 ManageMate
 
 **ManageMate** is a modern mobile app for smart team management.  
@@ -72,7 +67,6 @@ Before starting, make sure you have:
    ```bash
    git clone https://github.com/mohammedbourass-youssef/ManageMate.git
    cd ManageMate
-````
 
 2. **Install dependencies**
 
